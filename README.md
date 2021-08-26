@@ -31,13 +31,13 @@ For all following models, we will evaluate and optimize for:
 ![graph1](images/Baseline.png)
 
 ### KNN 'Simple Model' 85.7% Accuracy
-![graph2](images/KNNSimplemodel.png)
+![graph2](images/KNNSimpleModel.png)
 
 ### Grid Search Optimized: Random Forest - 'Final Model' 84.5% Accuracy
-![graph3](images/randomforestfinalmodel.png)
+![graph3](images/RandomForestFinalModel.png)
 
 ### Feature Importances
-![graph4](images/featureimportances.png)
+![graph4](images/FeatureImportances.png)
 
 ## Evaluation
 After model selection and optimization over many iterations, the resulting findings are:
